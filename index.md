@@ -21,9 +21,9 @@ url         : {lib: "."}
 <small> Dept. of Veterinary Medicine,<br>
  University of Cambridge </small>
 
-<img src="assets/img/uc-colour.svg" width="30%" style="border: 0px">
+<img src="assets/img/cu.svg" width="10%" style="border: 0px">
 &nbsp;
-<img src="assets/img/RoyalSociety.png" width="30%" style="border: 0px">
+<img src="assets/img/RoyalSociety.png" width="10%" style="border: 0px">
 
 --- #ex1 x:0 y:1000 scale:1
 
