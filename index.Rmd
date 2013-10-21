@@ -19,11 +19,9 @@ url         : {lib: "."}
 
 #### Simon D.W. Frost
 <small> Dept. of Veterinary Medicine,<br>
- Institute of Public Health, and<br>
- WHO Collaborating Centre for Modelling, Evolution and Control of Emerging Infectious Diseases<br>
  University of Cambridge </small>
 
-<img src="assets/img/uc-colour.png" width="30%" style="border: 0px">
+<img src="assets/img/uc-colour.svg" width="30%" style="border: 0px">
 &nbsp;
 <img src="assets/img/RoyalSociety.png" width="30%" style="border: 0px">
 
